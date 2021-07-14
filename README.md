@@ -1,5 +1,5 @@
 # CodeFirstExample
-Application console use Code first .Net Core 3.1. We can learn file migration, generate script sql from file migration, update database, relationship model code first and insert show data.
+Application console use Code first .Net Core 3.1. We can learn file migration, generate script sql from file migration, update database, relationship model code first and insert show data. Download File [PPT Code First](https://drive.google.com/file/d/1V4zfItX-hgqjU3HwjF9U8wwXQ9cD83b9/view?usp=sharing) .
 ## Installation
 Use the NuGet Package Manager to project (example : add-migration <title>, update-database, etc). Information all about [tools](https://docs.microsoft.com/en-us/ef/core/cli/powershell)
 ```bash
